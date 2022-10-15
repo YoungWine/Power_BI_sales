@@ -4,7 +4,7 @@
   - Revenue;
   - Profit;
   - Profitability;
-  - Battery;
+  - Active client base (ACB);
   - Average check;
   - Logistics costs
 2. Create graphs:
